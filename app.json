@@ -54,7 +54,7 @@
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "veneramxni",
+        "value": "veneramaxni",
         "required": false
       },
       "LOG_GROUP_ID": {
