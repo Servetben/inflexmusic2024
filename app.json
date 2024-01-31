@@ -14,52 +14,52 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "21122885",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "08324eb4d401d75c4b66fe4c94b88ef3",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6486835413:AAH8NbnAwDvsUCtU9UWUGs-4dLSZsMrsX-g",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://public:abishnoimf@cluster0.rqk6ihd.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "5045429385",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session .",
-        "value": "",
+        "value": "AgFCT0UAnYViPTHl43Fq44LGZkQnB6lXZD2hu6k-IPzmz2ZazESspPm_cNXUsdp8N_Ru1gp3o2bLawR0_7L86-_U-TZS3rj9rBSsiEBvM5goSZbJGK32-SuuM0q3yezOjg3IufeXT5Cqi2fKAWTfUr2UN3ma6M5p7LHDuycDzRoHhQrFYsX4_jYUGDAElnxwhm_Ly0_KMzXn6HbtsVSkxOsXELhRNyjXoBGb-zZkyW8qyOcIWAKV3oSKtm8Ptl_5QdB-gD9UBM8Uc88QFqhf1mZCc5vdengdKNbbzqlTG2ccMPffBAGr_Dh9Q52thuIIeC0oF9rY8QnC6rQLBLEP82hRMdp6bwAAAAFZIiA3AA",
         "required": true
       },
       "QUEUE_LIMIT": {
         "description": "Fill Queue Limit . Example - 15",
-        "value": "",
+        "value": "90",
         "required": false
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "681e7efc-4e25-4c97-a195-664092666492",
         "required": false
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "",
+        "value": "veneramxni",
         "required": false
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
-        "value": "",
+        "value": "-1001674865910",
         "required": true
       }
     },
